@@ -1,1 +1,1 @@
-echo "print('Inicio del sistema')"
+echo print('Inicio del sistema')
