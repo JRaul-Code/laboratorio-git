@@ -1,0 +1,1 @@
+echo "print('Inicio del sistema')"
